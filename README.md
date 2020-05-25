@@ -4,6 +4,7 @@ The code provides an example implementation of the idea shown in the paper "Rapi
 Cite the paper like below,
 
 @inproceedings{10.1145/3357223.3362731,
+
 author = {Ni, Fan and Jiang, Song},
 
 title = {RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-Based Deduplication Systems},
@@ -33,7 +34,7 @@ location = {Santa Cruz, CA, USA},
 series = {SoCC ’19}
 }
 
-# or
+or
 Fan Ni and Song Jiang. 2019. RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems. In Proceedings of the ACM Symposium on Cloud Computing (SoCC ’19). Association for Computing Machinery, New York, NY, USA, 220–232. DOI:https://doi.org/10.1145/3357223.3362731
 
 
